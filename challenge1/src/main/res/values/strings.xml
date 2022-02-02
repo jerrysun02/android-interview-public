@@ -7,4 +7,5 @@
     <string name="home_hi">Hi there</string>
     <string name="home_time">The time now is %1$s</string>
     <string name="key_welcome_clicked">key_welcome_clicked</string>
+    <string name="welcome_text">Welcome,\n\nPlease click OK to proceed</string>
 </resources>
